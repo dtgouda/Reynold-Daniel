@@ -1,0 +1,35 @@
+/*---Algemeen---*/
+body, html{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.content{
+    height: 100%;
+    background-image:url(../images/background.jpg);
+    background-size: cover;
+}
+
+.main{
+    border: 3px solid black;
+    height: 800px;
+    width: 1000px;
+    margin: auto;
+    border-radius: 100px;
+}
+/*---End Algemeen---*/
+
+/*---Header---*/
+.header{
+    height: 120px;
+}
+
+.header-inner{
+    width: 1000px;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+/*---End Header---*/
